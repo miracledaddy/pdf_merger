@@ -18,7 +18,7 @@ for file in os.listdir(os.curdir):
         merger.append(file)
 
 #creating new .pdf file with specified name consisting of all found pdf files in the current dir
-merger.write("combined_docs.pdf")
+merger.write("combined_pdf_files.pdf")
 
 print("\nWe have found such .pdf files in a current directory as:")
 
