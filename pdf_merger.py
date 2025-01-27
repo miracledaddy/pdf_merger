@@ -25,4 +25,4 @@ print("\nWe have found such .pdf files in a current directory as:")
 for file in pdf_files_list:
     print(file)
 
-print("\nAnd merged them into the next file: combined_docs.pdf")
+print("\nAnd merged them into the next file: expected_result_example.pdf")
